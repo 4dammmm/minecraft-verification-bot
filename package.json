@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-verification-bot",
+  "version": "1.0.0",
+  "description": "Bot per verificare i player tramite TPA",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.15.0",
+    "@supabase/supabase-js": "^2.38.0"
+  }
+}
